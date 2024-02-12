@@ -1,4 +1,4 @@
-/* This is a data exploration project in SQL. It focuses on the following:
+/* This is a data exploration project in SQL Server 2019. It focuses on the following:
 	1) Cleaning the dataset
 	2) Calucating revenues, orders and products sold as well as top employees and countries
 	   in terms of products sold
