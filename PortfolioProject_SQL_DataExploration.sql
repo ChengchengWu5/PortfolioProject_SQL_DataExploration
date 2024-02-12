@@ -138,7 +138,7 @@ JOIN northwind_orders AS o
 	ON t.employee_ID = o.employee_ID;
 
 
-/* Create a CTE for the total revenue by year */
+/* Create a CTE for the revenue by year and calculate the total revenue using the CTE */
 
 -- Define the total revenue by year CTE
 WITH RevenueByYearCTE AS (
