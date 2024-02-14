@@ -1,9 +1,8 @@
-/* This is a data exploration project in SQL Server 2019. It focuses on the following aspects:
-	1) Calucating revenues, orders and products sold as well as top employees and countries
-	   in terms of products sold
-	2) Creating and using the temporary table (temp table)
-	3) Creating and using the common table expression (CTE)
-	4) Creating views for visualizations when needed */
+/* This is a data exploration project using SQL Server. It emphasizes the following aspects:
+- calucating revenues, orders and products sold as well as top employees and countries in terms of products sold
+- creating and using the temporary table (temp table)
+- creating and using the common table expression (CTE)
+- creating views for visualization when needed */
 
 
 -- Retrieve data from the two tables
