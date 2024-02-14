@@ -86,7 +86,7 @@ GROUP BY o.employee_id
 ORDER BY COUNT(o.ship_country) DESC;
 
 
--- Calculate the top 5 countries the products sold to
+-- Calculate the top 5 countries the products are sold to
 
 SELECT TOP 5 o.ship_country, COUNT(o.order_id) AS OrderCount
 FROM northwind_order_details AS d
